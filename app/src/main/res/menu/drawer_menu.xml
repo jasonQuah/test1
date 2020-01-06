@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/myProfile_fragment"
+            android:icon="@drawable/ic_message"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/job_List_fragment"
+            android:icon="@drawable/ic_message"
+            android:title="Job Lists" />
+        <item
+            android:id="@+id/myApplication_fragment"
+            android:icon="@drawable/ic_message"
+            android:title="My Application" />
+        <item
+            android:id="@+id/saved_Jobs_fragment"
+            android:icon="@drawable/ic_message"
+            android:title="My Favourite" />
+        <item
+            android:id="@+id/about_JobSquare_fragment"
+            android:icon="@drawable/ic_message"
+            android:title="About JobSquare" />
+        <item
+            android:id="@+id/logout_fragment"
+            android:icon="@drawable/ic_message"
+            android:title="Logout" />
+    </group>
+
+</menu>
