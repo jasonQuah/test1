@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">test1</string>
 
+    <!--for nav drawer-->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--for add Jobs-->
+    <string name="addjobtitle">Add Job</string>
+    <string name="addjobPosition">Job Position</string>
+    <string name="addjobDescription">Job Description</string>
+    <string name="addjobsalary">Job Salary</string>
+    <string name="addjobrequirement">Job Requirements</string>
+    <string name="lblSubmit">Add</string>
+    <string name="lblBack">Back</string>
 </resources>

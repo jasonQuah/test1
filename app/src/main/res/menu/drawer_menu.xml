@@ -10,6 +10,7 @@
             android:title="My Profile" />
         <item
             android:id="@+id/job_List_fragment"
+            android:name="com.example.test1.jobListFragment"
             android:icon="@drawable/ic_message"
             android:title="Job Lists" />
         <item
